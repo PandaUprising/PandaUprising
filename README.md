@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PandaUprising
 - 👀 I’m interested in all things java, and minecraft
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me brawlsisaac@gmail.com
 
 <!---
 PandaUprising/PandaUprising is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
